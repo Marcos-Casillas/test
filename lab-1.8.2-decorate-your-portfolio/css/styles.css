@@ -1,0 +1,34 @@
+
+
+body { 
+    background-color: brown;
+    
+}
+
+h3 {color:aqua
+
+
+
+}
+    
+
+p { color: black;
+font-size: larger;
+
+
+}
+
+.sponge {
+
+border: 20px solid olive
+
+
+}
+
+
+   html {
+cursor: url(images/download.png), auto;
+
+
+    }
+/*  cursor broke unkown why. sixe is fine. stopped working after adding border to lady */
